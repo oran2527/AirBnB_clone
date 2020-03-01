@@ -1,4 +1,4 @@
-# AirBnB clone - The console
+#  AirBnB clone - The console
 
 ## Description of the project
 The AirBnB Clone is a project to build a console where we can manipulate objects based on a master class. The data manipulated will be stored in a file using json format.
