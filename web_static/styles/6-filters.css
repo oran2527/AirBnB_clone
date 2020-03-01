@@ -58,14 +58,9 @@ button:hover {
 	top: 70px;	
 }
 
-.amenities .popover ul, .amenities .popover li {
-	padding-left: 30px;	
-}
-
 .amenities .popover {
 	width: 25%;
-	left: 250px;
-        padding-top: 2%;
+	left: 250px;        
 }
 
 .locations .popover {
@@ -88,3 +83,11 @@ visibility: visible;
 .popover ul, .popover li {
 	list-style-type: none;
 }
+
+.popover h2 {
+	padding-left: 20px;
+}
+
+.popover li {
+	width: 25%;
+}		
